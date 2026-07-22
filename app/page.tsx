@@ -185,16 +185,16 @@ export default function HomePage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-foreground text-lg">LendSwift</h3>
-                    <p className="text-xs text-muted-foreground">Fintech Platform</p>
+                    <p className="text-xs text-muted-foreground">AI-Powered Loan Application Platform</p>
                   </div>
                 </div>
                 <p className="text-sm text-muted-foreground leading-relaxed mb-4">
                   Bridging the gap between financial intent and execution for modern India.
                 </p>
                 <div className="space-y-2 text-sm text-muted-foreground">
-                  <p><span className="font-semibold text-foreground">Email:</span> hello@lendswift.in</p>
+                  <p><span className="font-semibold text-foreground">Email:</span> kolikishan2004@gmail.com</p>
                   <p><span className="font-semibold text-foreground">Phone:</span> +91 1234 567 890</p>
-                  <p><span className="font-semibold text-foreground">Address:</span> Bangalore, India</p>
+                  <p><span className="font-semibold text-foreground">Address:</span> Delhi, India</p>
                 </div>
               </div>
 
@@ -296,7 +296,7 @@ export default function HomePage() {
             <div className="border-t-2 border-slate-200 dark:border-slate-700 pt-8">
               <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
                 <p className="text-sm text-muted-foreground">
-                  © 2026 LendSwift Technologies. All rights reserved.
+                  © 2026 LendSwift. Developed by Kishan.
                 </p>
                 <div className="flex flex-wrap gap-6">
                   <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200">
